@@ -1,0 +1,482 @@
+[
+    {
+        "_id": "642c155b2c4774f05c36eeaa",
+        "name": "Chopped Salad",
+        "recipe": "This chopped salad will amaze everyone around the table! There is our homemade Italian dressing, tangy, savory, herby and balanced. Add to that shallots, tomatoes, cucumber, and a zing from pepperoncini.",
+        "image": "/images/recipes/img44.png",
+        "category": "salad",
+        "price": 14.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb9",
+        "name": "Watermelon Juice",
+        "recipe": "Sweet watermelon juice: blend, chill, and sip the ultimate summer refreshment.",
+        "image": "/images/recipes/img5.png",
+        "category": "drinks",
+        "price": 14.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7c",
+        "name": "Garlic Herb Butter Steak",
+        "recipe": "Garlic Herb Butter Steak in Oven Impress your family with this beautiful cut of meat for the Holiday table! This roasted rib-eye steak is tender and flavorful, and the cut is sure to make a big impression.",
+        "image": "/images/recipes/img53.png",
+        "category": "popular",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee88",
+        "name": "Chocolate Macarons",
+        "recipe": "These sandwich cookies get plenty of rich chocolate flavor from cocoa powder and an intense ganache filling.",
+        "image": "/images/recipes/img6.png",
+        "category": "dessert",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7a",
+        "name": "Steak Frites",
+        "recipe": "If you're in the mood for a classic French meal, look no further than steak frites.",
+        "image": "/images/recipes/img54.png",
+        "category": "popular",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee74",
+        "name": "Grilled Steak",
+        "recipe": "The easiest and quickest way to ruin a solid steak is with a sauce that is just too heavy for the dish. The next thing you know, you're consuming a day's worth of saturated fat in the process in just one meal.",
+        "image": "/images/recipes/img57.png",
+        "category": "popular",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee712",
+        "name": "Carne Asada Burrito",
+        "recipe": "Our version of the carne asada burrito is much more modest in size, focusing on the main ingredients: chunks of marinated skirt steak, guac, black beans, and cheese",
+        "image": "/images/recipes/img56.png",
+        "category": "popular",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7x",
+        "name": "Steak Nachos",
+        "recipe": "No one can resist the allure of the beloved nacho, but if you order this from any restaurant as an appetizer, you'll most likely be indulging in more than 1,500 calories worth of soggy chips.",
+        "image": "/images/recipes/img55.png",
+        "category": "popular",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8c",
+        "name": "Chocolate-Candy Bar Layer Cake",
+        "recipe": "Indulge in the decadence of a Chocolate-Candy Bar Layer Cake with this delightful recipe.",
+        "image": "/images/recipes/img7.png",
+        "category": "dessert",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee94",
+        "name": "Pepperoni Pizza",
+        "recipe": "You can easily make restaurant-quality Pepperoni Pizza from home, and paired with our easy homemade pizza dough and pizza sauce recipe this is the absolute BEST!",
+        "image": "/images/recipes/img31.png",
+        "category": "pizza",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee9e",
+        "name": "Mushroom Pizza with Fresh Herbs",
+        "recipe": "This mushroom pizza is a white pizza that is covered with mozzarella cheese, goat cheese, and fresh herbs. It is perfection!",
+        "image": "/images/recipes/img32.png",
+        "category": "pizza",
+        "price": 12.9
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea6",
+        "name": "Apple Salad",
+        "recipe": "Crisp tart apple slices pair with pops of pomegranate seeds, creamy goat cheese, and crunchy, cinnamon spiced pecans. Toss them all over fresh greens with a zingy maple and apple cider vinegar dressing, and it is truly salad perfection.",
+        "image": "/images/recipes/img45.png",
+        "category": "salad",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeaf",
+        "name": "Chicken Noodle Soup",
+        "recipe": "A chicken noodle soup recipe that's a very easy, very good substitute for when you don't have time to make your soup totally from scratch.",
+        "image": "/images/recipes/img20.png",
+        "category": "soup",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee89",
+        "name": "Chocolate Cake with Peppermint Ganache",
+        "recipe": "Create a stunning finish for your chocolate bundt cake by topping with shards of homemade peppermint bark.",
+        "image": "/images/recipes/img8.png",
+        "category": "dessert",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8a",
+        "name": "Chocolate Mousse",
+        "recipe": "This classic chocolate mousse is light yet intensely chocolate. Do not be fooled by the French name — it is quick and easy to make!",
+        "image": "/images/recipes/img9.png",
+        "category": "dessert",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee96",
+        "name": "Veggie Pizza",
+        "recipe": "When you want to jazz up your cheese pizza with color and texture, veggies are the perfect topping. And you are only limited by your imagination.",
+        "image": "/images/recipes/img33.png",
+        "category": "pizza",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee81",
+        "name": "Carrabba's Italian Grill",
+        "recipe": "Carrabba's isn't your typical red-sauce Italian joint. First and foremost, it's a grill — and each of the menu's meaty entrees, from steak and chops to chicken and veal, gets the wood-fired treatment.",
+        "image": "/images/recipes/img63.png",
+        "category": "offered",
+        "price": 10.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee84",
+        "name": "Strawberry Shortcake",
+        "recipe": "These strawberry shortcakes are one of our favorite easy summer desserts!",
+        "image": "/images/recipes/img10.png",
+        "category": "dessert",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea4",
+        "name": "Kale Salad",
+        "recipe": "This flavor popping Italian-style dressing of lemon, Parmesan cheese, and garlic, the bitter taste of the kale is mellowed and melds beautifully with the other flavors.",
+        "image": "/images/recipes/img46.png",
+        "category": "salad",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea5",
+        "name": "Caesar Salad",
+        "recipe": "The savory, creamy dressing will instantly become a household favorite. And the crunchy garlicky croutons…well, you will be eating them off the baking sheet.",
+        "image": "/images/recipes/img47.png",
+        "category": "salad",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee87",
+        "name": "No Bake Dessert",
+        "recipe": "Sometimes, turning the oven on in order to make a sweet treat is our last straw. Sound familiar? Because we can name more than a few reasons why we might be avoiding our ovens these days, but that shouldn't mean you have to skip dessert time.",
+        "image": "/images/recipes/img11.png",
+        "category": "dessert",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee83",
+        "name": "LongHorn Steakhouse",
+        "recipe": "LongHorn serves more than 10 million fresh (and never-frozen) rib-eye steaks annually — and this item's popularity is no surprise.",
+        "image": "/images/recipes/img62.png",
+        "category": "offered",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7f",
+        "name": "Steak in a Red Wine Pan Sauce",
+        "recipe": "Cooking a steak indoors is actually much easier than throwing it on an outdoor grill.",
+        "image": "/images/recipes/img58.png",
+        "category": "popular",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea8",
+        "name": "Arugula Salad",
+        "recipe": "The simplest arugula salad. It is quite possibly the easiest salad recipe you will make! You do not even have to make a salad dressing. In under 10 minutes, you have got an elegant salad that goes with almost everything.",
+        "image": "/images/recipes/img48.png",
+        "category": "salad",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeba",
+        "name": "Orange Juice",
+        "recipe": "Zesty orange dishes brighten meals, adding citrus charm and delicious flair to your culinary adventures.",
+        "image": "/images/recipes/img4.png",
+        "category": "drinks",
+        "price": 14.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee80",
+        "name": "Red Lobster",
+        "recipe": "Come for the often-imitated, never-duplicated Cheddar Bay Biscuits. Stay for the Ultimate Feast, Red Lobster's fan-favorite entree",
+        "image": "/images/recipes/img61.png",
+        "category": "offered",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee90",
+        "name": "Bûche de Noël",
+        "recipe": "Serve this bûche de noël for a Christmas dessert showpiece. This festive log features layers of chocolate sponge, chantilly cream and chocolate buttercream.",
+        "image": "/images/recipes/img12.png",
+        "category": "dessert",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb0",
+        "name": "Mushroom Soup",
+        "recipe": "It is easy enough to sauté up some mushrooms in butter, then add some flour, broth followed by a good glug of cream, and call it a day. And while it will taste just fine, it won’t really taste that much like mushrooms, except for the bites you get with mushroom bits in it.",
+        "image": "/images/recipes/img21.png",
+        "category": "soup",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8d",
+        "name": "Christmas Yule log",
+        "recipe": "Need a show-stopping dessert for over the Christmas period? Check out our indulgent festive yule log with a boozy Baileys cream and crunchy hazelnut brittle.",
+        "image": "/images/recipes/img13.png",
+        "category": "dessert",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8e",
+        "name": "Baileys ice cream",
+        "recipe": "This no-churn ice cream is perfect as an accompaniment for your Christmas puds, and requires just four ingredients to make.",
+        "image": "/images/recipes/img14.png",
+        "category": "dessert",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea7",
+        "name": "Italian Salad",
+        "recipe": "This Italian salad is full of all the right flavors and textures: crisp lettuce, crunchy garlic croutons, and zingy pepperoncini. It is covered in punchy, herby Italian vinaigrette that makes the flavors sing! It can play sidekick to just about anything.",
+        "image": "/images/recipes/img49.png",
+        "category": "salad",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee99",
+        "name": "Pepperoni Pizza",
+        "recipe": "There is a reason this is one of the most popular types of pizza. Who does not love biting into a crispy, salty round of pepperoni?",
+        "image": "/images/recipes/img34.png",
+        "category": "pizza",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb3",
+        "name": "Spring Vegetable Soup",
+        "recipe": "This is an easy spring vegetable soup recipe. Ready in less than 30 minutes, this spring soup makes the perfect weeknight dinner or lunch no matter what the season!",
+        "image": "/images/recipes/img22.png",
+        "category": "soup",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb5",
+        "name": "Tomato Soup",
+        "recipe": "This soup spends just 30 minutes on the stove, making it ideal for weeknight dinners or snow day lunches.",
+        "image": "/images/recipes/img23.png",
+        "category": "soup",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb6",
+        "name": "Cozy Autumn Wild Rice Soup",
+        "recipe": "This Cozy Autumn Wild Rice Soup is made with fresh seasonal vegetables and greens, hearty wild rice, and a deliciously zesty, creamy broth. Instant Pot and stovetop options included!",
+        "image": "/images/recipes/img24.png",
+        "category": "soup",
+        "price": 14.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb8",
+        "name": "Creamy Tomato Soup",
+        "recipe": "Stella's take on the famous Nordstrom's tomato basil soup uses carrot purée and just a splash of cream to create a thick, hearty, and warming meal.",
+        "image": "/images/recipes/img25.png",
+        "category": "soup",
+        "price": 14.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7e",
+        "name": "Hyderabadi Chicken Biryani",
+        "recipe": "Chicken Biryani, a world-famous Indian delicacy, requires time and experience to prepare but is well worth the effort.",
+        "image": "/images/recipes/img59.png",
+        "category": "popular",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8b",
+        "name": "Gingerbread Cupcakes",
+        "recipe": "These moreish spiced cupcakes are great fun to make over the festive season for the whole family.",
+        "image": "/images/recipes/img15.png",
+        "category": "dessert",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8f",
+        "name": "Rum Truffles",
+        "recipe": "Get into the festive spirit with a batch of these homemade rum truffles decorated by hand they make great last-minute gifts.",
+        "image": "/images/recipes/img16.png",
+        "category": "dessert",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee91",
+        "name": "Stollen bites",
+        "recipe": "Make these pretty stollen bites for a fun Christmas baking project you can use any mixed dried fruit, such as cranberries, sour cherries or apricots.",
+        "image": "/images/recipes/img17.png",
+        "category": "dessert",
+        "price": 14.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee97",
+        "name": "Meat Pizza",
+        "recipe": "If pepperoni just is not enough, and you are looking for a pie with a bit more heft, a meat pizza is a perfect and popular choice. Pile on ground beef and sausage for a hearty meal.",
+        "image": "/images/recipes/img35.png",
+        "category": "pizza",
+        "price": 14.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea0",
+        "name": "Margherita Pizza",
+        "recipe": "Deceptively simple, the Margherita pizza is made with basil, fresh mozzarella, and tomatoes. There is a reason it is an Italian staple and one of the most popular types of pizza in the country.",
+        "image": "/images/recipes/img36.png",
+        "category": "pizza",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea9",
+        "name": "Strawberry Salad",
+        "recipe": "This easy strawberry salad is one of our most popular salad recipes, pairing sweet strawberries with an insanely good strawberry vinaigrette salad dressing!",
+        "image": "/images/recipes/img50.png",
+        "category": "salad",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee85",
+        "name": "Christmas tart",
+        "recipe": "Fill a shop-bought tart case with brandy-soaked dried fruit and two types of almond for an effortless festive dessert, best eaten with brandy butter.",
+        "image": "/images/recipes/img18.png",
+        "category": "dessert",
+        "price": 10.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee93",
+        "name": "BBQ Chicken Pizza",
+        "recipe": "If you love BBQ chicken and you love pizza, why not put them together? This has long been a cult favorite of sports fans and college kids. The chicken slathered over the top of a pie gives it a tangy, sweet flavor that can not be beaten.",
+        "image": "/images/recipes/img37.png",
+        "category": "pizza",
+        "price": 10.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee95",
+        "name": "Hawaiian Pizza",
+        "recipe": "Pineapple might not be the first thing that comes to mind when you think pizza. But add in some ham and it creates an unexpectedly solid sweet and salty combination for this type of pizza.",
+        "image": "/images/recipes/img38.png",
+        "category": "pizza",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee9b",
+        "name": "Supreme Pizza",
+        "recipe": "When you can not decide which toppings to get, it is time for the supreme pizza. The “supreme” refers to the litany of toppings that come scattered on these pies, from sausage to vegetables to pepperoni. And it is the combination of the flavors that really makes it sing.",
+        "image": "/images/recipes/img39.png",
+        "category": "pizza",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb7",
+        "name": "Potato Vegetable Soup ",
+        "recipe": "Cozy up to a bowl of this simple to make potato vegetable soup recipe! It is loaded with veggies, has a touch of cream.",
+        "image": "/images/recipes/img26.png",
+        "category": "soup",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee9c",
+        "name": "The Works Pizza",
+        "recipe": "And when the supreme just is not enough, you are ready for the works. It is a step up in heartiness from the supreme. The “works” usually involves a wide variety of veggie toppings including onions, olives, and mushrooms, plus bacon and pepperoni.",
+        "image": "/images/recipes/img40.png",
+        "category": "pizza",
+        "price": 12.9
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee9d",
+        "name": "Buffalo Pizza",
+        "recipe": "Who says your pizza has to be strictly tomato-sauce based? Branch out with some buffalo sauce on your pie. All its spicy, salty, buttery goodness is a natural pairing for pizza.",
+        "image": "/images/recipes/img41.png",
+        "category": "pizza",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeac",
+        "name": "Wedge Salad",
+        "recipe": "Classic is classic for a reason, and the classic wedge salad does not disappoint. Every time we serve it, people ooo and ahh. Because it really is perfection: the crunch of iceberg lettuce against the creamy, savory blue cheese dressing just makes sense.",
+        "image": "/images/recipes/img51.png",
+        "category": "salad",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb4",
+        "name": "Chicken Clear Soup",
+        "recipe": "Chicken Clear Soup, a clear, light and comforting chicken soup with minimal flavourings. The soup is made with homemade chicken broth which makes it chicken soup for soul.",
+        "image": "/images/recipes/img27.png",
+        "category": "soup",
+        "price": 14.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee98",
+        "name": "Cheese Pizza",
+        "recipe": "It should be no shocker that a classic is the statistical favorite. Cheese pizza is one of the most popular choices. It will always be a simple, unadorned masterpiece on its own.",
+        "image": "/images/recipes/img42.png",
+        "category": "pizza",
+        "price": 12.9
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee82",
+        "name": "Bourbon Street Chicken and Shrimp",
+        "recipe": "For customers of this iconic and ever-evolving chain, nothing embodies eating good in the neighborhood quite like the Bourbon Street Chicken and Shrimp — a heap of Cajun-seasoned chicken and blackened shrimp in garlic butter, served on a sizzling cast-iron platter along with sauteed mushrooms, onions and crispy red potatoes.",
+        "image": "/images/recipes/img60.png",
+        "category": "offered",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee86",
+        "name": "Tiramis-Choux Tower",
+        "recipe": "Treat guests to this hybrid centrepiece half profiterole, half tiramisu with balls of choux pastry stuffed with coffee-drenched ladyfingers and boozy pastry cream.",
+        "image": "/images/recipes/img19.png",
+        "category": "dessert",
+        "price": 12.5
+    },
+    {
+        "_id": "642c15b2c4774f05c36ee9a",
+        "name": "Neapolitan Pizza",
+        "recipe": "Neapolitan pizza is for individuals who would like not to pile on too many toppings. Naples, Italy, is where Neapolitan pizza first appeared. It was originally exclusively cooked and eaten by peasants because it contained tomatoes, which were falsely believed to be deadly. However, it ended up being extremely tasty.",
+        "image": "/images/recipes/img43.png",
+        "category": "pizza",
+        "price": 12.9
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeab",
+        "name": "Carrot Salad",
+        "recipe": "Serve this carrot salad recipe to your friends and family, and they will be singing your praises! We know because after we made this at our house, it disappeared within minutes. It is simple and refreshing, featuring strings of carrots doused in a a tangy Mediterranean-style vinaigrette.",
+        "image": "/images/recipes/img52.png",
+        "category": "salad",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb1",
+        "name": "Tom Yum Soup",
+        "recipe": "Tom Yum soup everybody's favourite Thai soup is finally here! Choose from the classic clear Tom Yum Goong, or make the creamy Tom Yum version both are made with the same broth.",
+        "image": "/images/recipes/img28.png",
+        "category": "soup",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eead",
+        "name": "Red Curry Chicken Soup",
+        "recipe": "This Thai-inspired Red Curry Chicken Soup is perfect comfort food. Tender chicken, fresh veggies, creamy coconut milk, and red curry paste all come together to form a slightly sweet, slightly tangy, and flavorful soup. ",
+        "image": "/images/recipes/img29.png",
+        "category": "soup",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeae",
+        "name": "Thai Coconut Chicken Soup",
+        "recipe": "Our Thai coconut chicken soup is a hearty comforting chicken soup recipe that's a great alternative to the classic chicken noodle.",
+        "image": "/images/recipes/img30.png",
+        "category": "soup",
+        "price": 10.5
+    }
+]

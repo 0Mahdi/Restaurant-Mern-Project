@@ -1,6 +1,7 @@
 import React, {useEffect, useState} from 'react';
 import logo from '/logo.png';
-import { BiPhoneCall } from "react-icons/bi";
+import { FaRegUser } from "react-icons/fa";
+import Modal from './Modal';
 
 
 const Navbar = () => {
@@ -118,8 +119,13 @@ const Navbar = () => {
               </div>
             </label>
 
-            {/* btn */}
-            <a className="btn bg-green rounded-full px-6 text-white flex items-center gap-2"><BiPhoneCall /> Contact</a>
+            {/* login btn */}
+            <button 
+              onClick={()=>document.getElementById('my_modal_5').showModal()} 
+              className="btn bg-green rounded-full px-6 text-white flex items-center gap-2">
+                <FaRegUser/> Login
+            </button>
+            <Modal/>
           </div>
       </div>
     </header>

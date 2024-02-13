@@ -1,7 +1,7 @@
 /* eslint-disable react/prop-types */
 import React, { useState } from 'react'
 import {Link} from "react-router-dom"
-import {FaHeart} from "react-icons/fa"
+import {FaHeart} from "react-icons/fa";
 
 const Cards = ({ item }) => {
   const [isHeartFilled, setIsHeartFilled] = useState(false);

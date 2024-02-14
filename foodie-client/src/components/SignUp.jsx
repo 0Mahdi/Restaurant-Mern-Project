@@ -1,8 +1,9 @@
-import React from 'react';
+import React, { useContext } from 'react';
 import { FaFacebookF, FaGithub, FaGoogle } from 'react-icons/fa';
-import {Link} from "react-router-dom";
+import {Link, useLocation, useNavigate} from "react-router-dom";
 import { useForm } from "react-hook-form"
 import Modal from './Modal';
+import { AuthContext } from '../contexts/AuthProvider';
 
 const SignUp = () => {
     const {
@@ -12,7 +13,23 @@ const SignUp = () => {
         formState: { errors },
       } = useForm();
 
-      const onSubmit = (data) => console.log(data)
+      const {createUser, login} = useContext(AuthContext);
+      //redirecting to home page or specific page 
+      const location = useLocation();
+      const navigate = useNavigate();
+      const from  = location.state?.from?.path || "/"
+
+      const onSubmit = (data) => {
+        const email = data.email;
+        const password = data.password;
+        createUser(email, password).then((result) =>{
+            //signed up
+            const user = result.user;
+            alert("Account certain successfully done!")
+            document.getElementById('my_modal_5').close()
+            navigate(from, {replace: true})
+        })
+      }
   return (
     <div className='max-w-md bg-white shadow w-full mx-auto flex items-center justify-center my-20'>
         <div className="modal-action flex flex-col justify-center mt-0">
